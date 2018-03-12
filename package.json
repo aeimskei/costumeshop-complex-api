@@ -1,0 +1,28 @@
+{
+  "name": "costumeshop-complex-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.1",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeimskei/costumeshop-complex-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeimskei/costumeshop-complex-api/issues"
+  },
+  "homepage": "https://github.com/aeimskei/costumeshop-complex-api#readme",
+  "description": ""
+}
